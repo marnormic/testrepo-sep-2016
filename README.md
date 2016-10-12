@@ -3,3 +3,5 @@
 Hej
 
 Dette er en første test af funktionalitet i GitHub
+
+Lægger til lidt ekstra visdom
